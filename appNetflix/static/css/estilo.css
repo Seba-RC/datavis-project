@@ -1,0 +1,17 @@
+.header-section {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+
+  .content-wrapper {
+    padding-top: 20px;
+    margin-top: 10px;
+  }
+
+  .chart-container {
+    background-color: #f8f9fa; /* Light gray */
+    padding: 20px;
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Shadow effect */
+  }
